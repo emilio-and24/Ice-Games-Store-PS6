@@ -1,6 +1,20 @@
 # 🎮 Ice Games Store
 
-📈 Project Highlights
-* Cleaned and preprocessed the dataset, addressed missing values, and ensured proper data types for accurate analysis.
-* Conducted exploratory data analysis (EDA) with Matplotlib, Seaborn, and SciPy to visualize trends and uncover patterns.
-* Analyzed platform and genre trends to pinpoint high-performing game types and explore emerging market opportunities
+## Objective
+Identify patterns that determine whether a game is successful
+
+## 🛠️Technologies Used
+- **Python**: Pandas
+- **Jupyter Notebook**: Interactive environment for analysis.
+- **CSV Dataset**: Contains user behavior data.
+
+## Key Steps
+1. **Data Description**:
+   - Assessed the quality of the dataset and summarized its structure.
+2. **Data Preprocessing**:
+   - Handled missing values, corrected formatting issues, and removed duplicates.
+
+## Results
+The analysis confirms that:
+- NA and EU share user behavior
+- User and critic reviews show a positive correlation with sales
